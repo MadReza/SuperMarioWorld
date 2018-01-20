@@ -137,7 +137,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4352969359884152, guid: 3f55cdae568749d409ef32d68f92684f, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 2.9338028
+      value: 0.43
       objectReference: {fileID: 0}
     - target: {fileID: 4352969359884152, guid: 3f55cdae568749d409ef32d68f92684f, type: 2}
       propertyPath: m_LocalPosition.y
@@ -183,11 +183,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4352969359884152, guid: 3f55cdae568749d409ef32d68f92684f, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 16.083803
+      value: 8.06
       objectReference: {fileID: 0}
     - target: {fileID: 4352969359884152, guid: 3f55cdae568749d409ef32d68f92684f, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 2.8285792
+      value: 2.828579
       objectReference: {fileID: 0}
     - target: {fileID: 4352969359884152, guid: 3f55cdae568749d409ef32d68f92684f, type: 2}
       propertyPath: m_LocalPosition.z
@@ -225,11 +225,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4352969359884152, guid: 3f55cdae568749d409ef32d68f92684f, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 10.399009
+      value: 10.39901
       objectReference: {fileID: 0}
     - target: {fileID: 4352969359884152, guid: 3f55cdae568749d409ef32d68f92684f, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 0.54207706
+      value: 0.5420771
       objectReference: {fileID: 0}
     - target: {fileID: 4352969359884152, guid: 3f55cdae568749d409ef32d68f92684f, type: 2}
       propertyPath: m_LocalPosition.z
@@ -281,7 +281,7 @@ GameObject:
   - component: {fileID: 719429894}
   m_Layer: 0
   m_Name: Mario
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

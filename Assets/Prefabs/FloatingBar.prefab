@@ -68,6 +68,8 @@ GameObject:
   m_Component:
   - component: {fileID: 4352969359884152}
   - component: {fileID: 61548592014031736}
+  - component: {fileID: 95058535369595136}
+  - component: {fileID: 114472171236033576}
   m_Layer: 0
   m_Name: FloatingBar
   m_TagString: Untagged
@@ -82,7 +84,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1962928073133304}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.9338028, y: 4.228579, z: 0}
+  m_LocalPosition: {x: 8.06, y: 2.828579, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4887598458225860}
@@ -155,6 +157,34 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.558373, y: 0.55475044}
   m_EdgeRadius: 0
+--- !u!95 &95058535369595136
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1962928073133304}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 798a6a0dbda5d0142be1547f66dc9d9d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &114472171236033576
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1962928073133304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1720d6bb96f9a80458a2b3f5d5945112, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!212 &212361145357751924
 SpriteRenderer:
   m_ObjectHideFlags: 1
