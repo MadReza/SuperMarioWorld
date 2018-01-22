@@ -38,6 +38,24 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 1969713415
+    locked: 0
+  - name: Platforms
+    uniqueID: 3775583257
+    locked: 0
+  - name: MovingPlatforms
+    uniqueID: 1051213605
+    locked: 0
+  - name: InteractingObjects
+    uniqueID: 3113562953
+    locked: 0
+  - name: Enemies
+    uniqueID: 988029805
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Mario
+    uniqueID: 3291642085
     locked: 0
