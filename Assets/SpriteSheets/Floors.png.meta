@@ -1,36 +1,36 @@
 fileFormatVersion: 2
 guid: 53afbd75fa1da424f914d8e327fec3b0
-timeCreated: 1518122430
+timeCreated: 1518406246
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Floors_0
-    21300002: Floors_1
+    21300000: s0
+    21300002: s1
     21300004: Floors_2
     21300006: Floors_3
-    21300008: Floors_4
-    21300010: Floors_5
-    21300012: Floors_6
-    21300014: Floors_7
+    21300008: s2
+    21300010: s3
+    21300012: s4
+    21300014: s5
     21300016: Floors_8
     21300018: Floors_9
     21300020: Floors_10
     21300022: Floors_11
-    21300024: Floors_12
-    21300026: Floors_13
-    21300028: Floors_14
-    21300030: Floors_15
-    21300032: Floors_16
+    21300024: s6
+    21300026: s7
+    21300028: s8
+    21300030: s9
+    21300032: s10
     21300034: Floors_17
     21300036: Floors_18
     21300038: Floors_19
     21300040: Floors_20
     21300042: Floors_21
-    21300044: Floors_22
-    21300046: Floors_23
-    21300048: Floors_24
-    21300050: Floors_25
-    21300052: Floors_26
+    21300044: s11
+    21300046: s12
+    21300048: s13
+    21300050: s14
+    21300052: s15
     21300054: Floors_27
     21300056: Floors_28
     21300058: Floors_29
@@ -618,7 +618,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Floors_0
+      name: s0
       rect:
         serializedVersion: 2
         x: 69
@@ -632,7 +632,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Floors_1
+      name: s1
       rect:
         serializedVersion: 2
         x: 86
@@ -674,7 +674,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Floors_4
+      name: s2
       rect:
         serializedVersion: 2
         x: 52
@@ -688,7 +688,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Floors_5
+      name: s3
       rect:
         serializedVersion: 2
         x: 69
@@ -702,7 +702,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Floors_6
+      name: s4
       rect:
         serializedVersion: 2
         x: 86
@@ -716,7 +716,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Floors_7
+      name: s5
       rect:
         serializedVersion: 2
         x: 103
@@ -786,7 +786,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Floors_12
+      name: s6
       rect:
         serializedVersion: 2
         x: 35
@@ -800,7 +800,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Floors_13
+      name: s7
       rect:
         serializedVersion: 2
         x: 52
@@ -814,7 +814,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Floors_14
+      name: s8
       rect:
         serializedVersion: 2
         x: 69
@@ -828,7 +828,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Floors_15
+      name: s9
       rect:
         serializedVersion: 2
         x: 86
@@ -842,7 +842,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Floors_16
+      name: s10
       rect:
         serializedVersion: 2
         x: 103
@@ -926,7 +926,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Floors_22
+      name: s11
       rect:
         serializedVersion: 2
         x: 18
@@ -940,7 +940,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Floors_23
+      name: s12
       rect:
         serializedVersion: 2
         x: 35
@@ -954,7 +954,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Floors_24
+      name: s13
       rect:
         serializedVersion: 2
         x: 52
@@ -968,7 +968,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Floors_25
+      name: s14
       rect:
         serializedVersion: 2
         x: 69
@@ -982,7 +982,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Floors_26
+      name: s15
       rect:
         serializedVersion: 2
         x: 86

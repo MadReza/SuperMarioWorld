@@ -41,6 +41,12 @@ TagManager:
   - name: Background
     uniqueID: 1969713415
     locked: 0
+  - name: Background - Hills
+    uniqueID: 2770168111
+    locked: 0
+  - name: Background - Flowers
+    uniqueID: 3666622479
+    locked: 0
   - name: Platforms
     uniqueID: 3775583257
     locked: 0
